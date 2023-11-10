@@ -10,11 +10,11 @@ export const Header_list = () => {
             <div>
                 <h3> Top 5 ICC Teams in WCC@2023 </h3>
                 <ol>
-                    <a className="text-dark text-decoration-none" href="./index.html#india"><li> India</li></a>
-                    <a className="text-dark text-decoration-none" href="./index.html#SA"><li> South Africa</li></a>
-                    <a className="text-dark text-decoration-none" href="./index.html#aus"><li> Australia</li></a>
-                    <a className="text-dark text-decoration-none" href="./index.html#newz"><li> NewZealand</li></a>
-                    <a className="text-dark text-decoration-none" href="./index.html#pak"><li> Pakistan</li></a>
+                    <li><a className="text-dark text-decoration-none" href="./index.html#india"> India</a></li>
+                    <li><a className="text-dark text-decoration-none" href="./index.html#SA"> South Africa</a></li>
+                    <li><a className="text-dark text-decoration-none" href="./index.html#aus"> Australia </a></li>
+                    <li><a className="text-dark text-decoration-none" href="./index.html#newz"> NewZealand </a></li>
+                    <li><a className="text-dark text-decoration-none" href="./index.html#pak"> Pakistan </a></li>
                 </ol>
             </div>
         </div>
